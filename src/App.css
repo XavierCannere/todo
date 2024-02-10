@@ -7,11 +7,20 @@
   height: 100%;
   width: 100%;
   display: flex;
-  background-color: red;
+  background-color: blue;
 }
 
 .Calendar {
   height: 100%;
   width: 100%;
   background-color: lightgray;
+}
+
+.dateNavigator {
+  height: 10%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: red;
 }
